@@ -1,7 +1,7 @@
 package supported_db
 
 import (
-	"couch-go-master"
+	"github.com/peterbourgon/couch-go"
 	"db/entity"
 )
 

@@ -2,7 +2,7 @@ package db
 
 import (
 	"configparser-master"
-	"couch-go-master"
+	"github.com/peterbourgon/couch-go"
 	"gopkg.in/mgo.v2"
 	"strings"
 	"supported_db"
