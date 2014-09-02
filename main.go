@@ -1,12 +1,13 @@
 package main
 
 import (
-	"db"
-	"db/entity"
-	"fmt"
+	_"db"
+	_"db/entity"
+	_"fmt"
 )
 
 func main() {
+/*
 	database := db.GetConnection("config.ini") //Pass configuration file location
 
 	//Save
@@ -26,4 +27,5 @@ func main() {
 	//Update
 	//patients[0].PersonalDetail.FirstName = "updated"
 	//database.Update(patients[0])
+*/
 }
