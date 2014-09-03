@@ -1,7 +1,7 @@
 package main
 
 import (
-	"db"
+	"github.com/Bathakarai/go-orm/src/db"
 	"fmt"
 )
 

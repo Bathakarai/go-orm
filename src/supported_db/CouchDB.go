@@ -2,7 +2,7 @@ package supported_db
 
 import (
 	"github.com/peterbourgon/couch-go"
-	"db/entity"
+	"github.com/Bathakarai/go-orm/src/db/entity"
 	"fmt"
 	"strconv"
 	"strings"

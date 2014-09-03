@@ -1,7 +1,7 @@
 package supported_db
 
 import (
-	"db/entity"
+	"github.com/Bathakarai/go-orm/src/db/entity"
 	"gopkg.in/mgo.v2"
 	"gopkg.in/mgo.v2/bson"
 	"strings"

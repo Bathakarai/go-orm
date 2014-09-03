@@ -1,14 +1,14 @@
 package db
 
 import (
-	"abstract"
+	"github.com/Bathakarai/go-orm/src/abstract"
 	"github.com/alyu/configparser"
 	"github.com/peterbourgon/couch-go"
-	"db/entity"
+	"github.com/Bathakarai/go-orm/src/db/entity"
 	"gopkg.in/mgo.v2"
 	"reflect"
 	"strings"
-	"supported_db"
+	"github.com/Bathakarai/go-orm/src/supported_db"
 )
 
 // GetConnection - Return DB connection object based on config file.
